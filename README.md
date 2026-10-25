@@ -88,11 +88,33 @@ Exam-preparation platform for SPPU engineering students.
 
 ## 🧰 Tech stack
 
-<p align="center">
-  <img alt="Python, FastAPI, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Redis, SQLite, Docker, GitHub Actions, Linux, Git, Vercel" src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,postgres,redis,sqlite,docker,githubactions,linux,git,vercel&perline=7">
-</p>
-
-<p align="center"><b>AI:</b> local LLMs with Ollama (Qwen) · Gemini · evaluation harnesses · scikit-learn</p>
+<table>
+<tr>
+<td width="22%" valign="top"><b>🤖 AI &amp; ML</b></td>
+<td><img alt="python,pytorch,sklearn" src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=8" height="40"><br>
+Local LLMs with <b>Ollama</b> (Qwen, Qwen-VL) · <b>Gemini API</b> · Hugging Face · vision-language models for document reading · structured outputs · LLM evaluation with golden datasets · pandas · NetworkX</td>
+</tr>
+<tr>
+<td valign="top"><b>⚙️ Backend &amp; data</b></td>
+<td><img alt="fastapi,nodejs,postgres,redis,sqlite,supabase" src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,sqlite,supabase&perline=8" height="40"><br>
+REST APIs · SQLAlchemy · Redis Streams · event-driven pipelines</td>
+</tr>
+<tr>
+<td valign="top"><b>🎨 Frontend</b></td>
+<td><img alt="ts,js,react,nextjs,tailwind,vite" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&perline=8" height="40"><br>
+Accessible, mobile-first interfaces</td>
+</tr>
+<tr>
+<td valign="top"><b>🚢 DevOps &amp; delivery</b></td>
+<td><img alt="docker,githubactions,linux,nginx,bash,git,vercel" src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,bash,git,vercel&perline=8" height="40"><br>
+Docker Compose · CI/CD · systemd · DigitalOcean · pytest · Vitest · Jest</td>
+</tr>
+<tr>
+<td valign="top"><b>🌱 Learning next</b></td>
+<td><img alt="aws,terraform,kubernetes,prometheus,grafana" src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,prometheus,grafana&perline=8" height="40"><br>
+Cloud infrastructure, observability and MLOps — MLflow · vLLM</td>
+</tr>
+</table>
 
 ## 🌱 Right now
 
