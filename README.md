@@ -15,7 +15,7 @@ I build **applied AI systems that take repetitive work off people's plates** —
 
 - 🧠 **My approach:** the AI reads, deterministic rules verify, and every doubt is shown to a person before anything is trusted.
 - 🏢 **Founder of QuantaSharp**, an applied AI studio building systems that run in the cloud or fully on a client's own servers.
-- 💼 **Open to** full-time roles in applied AI, backend and platform engineering.
+- 💼 **Open to** internships in applied AI and backend engineering now, and full-time roles from 2028.
 
 ## 🚀 Featured work
 
